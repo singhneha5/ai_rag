@@ -1,0 +1,8 @@
+phidata
+ollama
+faiss-cpu
+pypdf
+pymupdf
+sentence-transformers
+streamlit
+scikit-learn
